@@ -1,5 +1,9 @@
 # Operating System Practicals (Sem-III)
 
+## Name- Shivank Chaudhary
+## Roll No- 20201424
+## University Roll No- 20020570031
+
 ## Files included
 
 1)Practical 1:
