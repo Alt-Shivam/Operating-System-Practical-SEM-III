@@ -7,3 +7,6 @@
 
 2)Practical 2: 
     Write a program to demonstrate fork where parent and child run different codes and parent process should be executed first.
+
+
+![Alt text](relative/path/to/img.jpg?raw=true "Title")
